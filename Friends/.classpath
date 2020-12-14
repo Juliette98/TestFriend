@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="ressources"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Documents/etude/M2/Semestre 1/Agilité/eclipseWorkspace/Friends/src/junit-4.13.1.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/cucumber-core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/cucumber-guice-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files-2/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files-2/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files-2/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files-2/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="/Users/rasoarilala/Downloads/jar_files-2/gherkin-2.12.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
